@@ -342,7 +342,7 @@ document.getElementById('screen_ua').innerHTML = `
         <div class="contentModal">
             <h1>Як працювати з шаблоном №2</h1><br><br>
 <p>Для успішного опрацювання шаблону треба виконати дві дії:
-<p>1. Відкрити у редакторі сторінку index.html і замінти у 
+<p>1. Відкрити у редакторі сторінку lineageUA.js і замінти у 
 шаблоні імена та фото на свої імена та фото
 <p>(name: "Іван"; path_photo: "./photo/Ivan.png"); </p>
 <pre>
@@ -350,8 +350,8 @@ document.getElementById('screen_ua').innerHTML = `
     id: "son", name: "Cин", path_photo: "./photo/son.png", l
 },</pre>
 
-<p>2. Відкрити у редакторі сторінку winMoodalData-ua.js і за
-вікон</p><br>
+<p>2. Відкрити у редакторі сторінку lineageUA.js і замінити дані про особу
+у всіх модальних вікнах починаючи з рядка 362</p><br>
 ---------------------------------------------------<br>
 Автор: Івченко Юрій. +380663669013; ivchenko505@gmail.com 
 <br>
