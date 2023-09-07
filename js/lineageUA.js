@@ -4,7 +4,7 @@
 const svg = document.getElementById("svg");
 let nodes = [
     {
-        id: "son-daugther", name: "Син", path_photo: "./photo/son.png", link: "#daugtherModal"
+        id: "son-daugther", name: "Син", path_photo: "./photo/son.png", link: "#son-daugtherModal"
     },
     {
         id: "father", name: "Тато", path_photo: "./photo/son.png", link: "#tatoModal"
@@ -362,7 +362,7 @@ document.getElementById('screen_ua').innerHTML = `
 <div id = "son-daugtherModal" class="personName-eclipse" >
     <div class="personModalInfo">
 <div class="titleModal">
-<img src="./photo/son-1.png" width="48">
+<img src="./photo/son.png" width="48">
 <h2>Син</h2>
 <a class="close" href="#">&times;</a>
 </div>
